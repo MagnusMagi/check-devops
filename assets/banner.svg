@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f172a"/><stop offset="1" stop-color="#1e1b4b"/></linearGradient>
+    <linearGradient id="ac" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34d399"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+  </defs>
+  <rect width="1280" height="640" fill="url(#bg)"/>
+  <g transform="translate(110 170) scale(0.29)" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M512 170 L790 280 V500 C790 680 670 800 512 860 C354 800 234 680 234 500 V280 Z" stroke="url(#ac)" stroke-width="44"/>
+    <path d="M380 515 L475 610 L660 420" stroke="url(#ac)" stroke-width="64"/>
+  </g>
+  <g font-family="Inter, 'Segoe UI', 'DejaVu Sans', Helvetica, Arial, sans-serif">
+    <text x="420" y="285" font-size="92" font-weight="800" fill="#f8fafc">check-devops</text>
+    <text x="424" y="350" font-size="34" fill="#cbd5e1">312-point production-readiness audit</text>
+    <text x="424" y="395" font-size="34" fill="#cbd5e1">for any codebase, inside Claude Code</text>
+    <text x="424" y="470" font-size="25" fill="#34d399">8 parallel agents · evidence for every item · one command</text>
+  </g>
+</svg>

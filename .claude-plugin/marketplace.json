@@ -1,0 +1,15 @@
+{
+  "name": "check-devops",
+  "description": "check-devops: a 312-item production-readiness audit skill for Claude Code.",
+  "owner": {
+    "name": "MagnusMagi",
+    "url": "https://github.com/MagnusMagi"
+  },
+  "plugins": [
+    {
+      "name": "check-devops",
+      "source": "./",
+      "description": "Audit any codebase against a 312-item backend, security, database, DevOps and distributed-systems checklist."
+    }
+  ]
+}

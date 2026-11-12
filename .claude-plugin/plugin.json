@@ -1,0 +1,10 @@
+{
+  "name": "check-devops",
+  "version": "1.0.0",
+  "description": "Audit any codebase against a 312-item backend, security, database, DevOps and distributed-systems checklist with 8 parallel agents and get an evidence-backed report.",
+  "author": { "name": "MagnusMagi", "url": "https://github.com/MagnusMagi" },
+  "homepage": "https://github.com/MagnusMagi/check-devops",
+  "repository": "https://github.com/MagnusMagi/check-devops",
+  "license": "MIT",
+  "keywords": ["devops", "audit", "security", "production-readiness", "checklist", "backend", "claude-code", "skill"]
+}
